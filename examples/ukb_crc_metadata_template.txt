@@ -1,0 +1,13 @@
+ids	group	batch	survival	age	outcome	outcome.time	sex	bmi	smoking	stage
+UKB_1001	CRC	Batch_A	1	62	1	48	1	27.3	1	III
+UKB_1002	Control	Batch_A	0	61	0	84	1	26.8	1	NA
+UKB_1003	CRC	Batch_B	1	58	0	72	0	24.1	0	II
+UKB_1004	CRC	Batch_B	1	65	1	36	1	29.5	2	IV
+UKB_1005	Control	Batch_C	0	64	0	96	0	23.7	0	NA
+UKB_1006	CRC	Batch_C	1	59	0	68	1	28.2	1	II
+UKB_1007	CRC	Batch_D	1	67	1	24	1	31.4	2	IV
+UKB_1008	Control	Batch_D	0	66	0	78	1	25.9	1	NA
+UKB_1009	CRC	Batch_E	1	61	1	42	0	26.8	0	III
+UKB_1010	CRC	Batch_E	1	63	0	76	1	28.9	1	II
+UKB_1011	Control	Batch_F	0	62	0	88	0	24.5	0	NA
+UKB_1012	CRC	Batch_F	1	60	0	72	1	27.6	1	II
